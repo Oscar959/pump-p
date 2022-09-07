@@ -1,0 +1,8 @@
+losenge3@A
+u948133088_ump
+
+u948133088_oscar	2022-05-05	
+umpdrc.com
+
+"v=spf1 include:spf.titan.email ~all"
+"google-site-verification=InjwHayDvgOixVXGnVkNj9bpvAkKvEvrhU3FJ5CSZmg"
